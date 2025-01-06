@@ -1,0 +1,78 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Eploring the Wonders of Nature",
+        "author": "John Doe",
+        "content": "Nature offers us an incredible variety of landscapes, wildlife, and experiences to explore and cherish.",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+        "date": "2025-01-05",
+        "tags": ["nature", "travel", "adventure"]
+      },
+      {
+        "id": 2,
+        "title": "The Rise of AI in Everyday Life",
+        "author": "Jane Smith",
+        "content": "Artificial intelligence is transforming the way we live, work, and interact with technology.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+        "date": "2024-12-20",
+        "tags": ["AI", "technology", "innovation"]
+      },
+        {
+            "id": 3,
+            "title": "Healthy Eating Habits for a Balanced Life",
+            "author": "Sarah Johnson",
+            "content": "Eating a balanced diet is essential for overall health and well-being. Discover tips for healthy eating.",
+            "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+            "date": "2024-12-10",
+            "tags": ["health", "nutrition", "wellness"]
+        },
+        {
+            "id": 4,
+            "title": "The Future of Sustainable Energy",
+            "author": "Michael Brown",
+            "content": "Sustainable energy sources are key to combating climate change and building a greener future.",
+            "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+            "date": "2024-12-01",
+            "tags": ["sustainability", "energy", "environment"]
+        },
+        {
+        "id": 5,
+        "title": "Top 5 Travel Destinations for 2025",
+        "author": "Alex Johnson",
+        "content": "These stunning travel destinations are must-visits for 2025. Start planning your next adventure!",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+        "date": "2025-01-01",
+        "tags": ["travel", "destinations", "adventure"]
+      },
+        {
+            "id": 6,
+            "title": "The Future of Space Exploration",
+            "author": "David Brown",
+            "content": "Space exploration is advancing at a rapid pace, with new missions and discoveries on the horizon.",
+            "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+            "date": "2024-11-20",
+            "tags": ["space", "exploration", "science"]
+        },
+        {
+            "id": 7,
+            "title": "The Art of Photography: Capturing Moments",
+            "author": "Sophia Lee",
+            "content": "Photography is a powerful medium for capturing moments, emotions, and stories. Learn how to master it.",
+            "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+            "date": "2024-11-10",
+            "tags": ["photography", "art", "creativity"]
+        },
+  
+      {
+        "id": 8,
+        "title": "The Power of Mindfulness in Daily Life",
+        "author": "Laura Wilson",
+        "content": "Mindfulness can bring peace and clarity to your life. Discover simple practices for everyday use.",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+        "date": "2024-11-01",
+        "tags": ["mindfulness", "wellness", "lifestyle"]
+      }
+    ]
+  }
+  
